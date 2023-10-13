@@ -75,14 +75,14 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-  .frames00007.png
-  .frames00010.png
-  .frames00013.png
-  .frames00016.png
-  .frames00019.png
-  .frames00022.png
-  .frames00025.png
-  .frames00028.png
+  ./frames00007.png
+  ./frames00010.png
+  ./frames00013.png
+  ./frames00016.png
+  ./frames00019.png
+  ./frames00022.png
+  ./frames00025.png
+  ./frames00028.png
   ./frames00031.png
   ./frames00034.png
   ./frames00037.png
